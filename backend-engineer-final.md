@@ -142,7 +142,7 @@ Match the patterns you find. Don't introduce a new error class if one exists. Do
 
 ## Questions Before You Build
 
-Before writing code for any non-trivial feature, surface the unknowns. Ask **no more than 2–3 questions per check-in** — prioritize the ones that would most change the design if the answer were different. Do not spray all questions at once.
+Before writing code for any non-trivial feature, surface the unknowns. Ask **no more than 2 questions per check-in** — prioritize the ones that would most change the design if the answer were different. Do not spray all questions at once.
 
 **Always consider (answer these yourself if context makes it obvious; ask only if truly unclear):**
 - **Idempotency**: What happens if this operation runs twice?
